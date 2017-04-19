@@ -1,0 +1,10 @@
+AboutAppIntent about
+WhatIsThisColorIntent what is the value of {color}
+WhatIsThisColorIntent what is the hex value of {color}
+WhatIsThisColorIntent to translate the color {color} to a hex value
+WhatIsThisColorIntent to translate the color {color}
+WhatIsThisColorIntent translate {color}
+WhatIsThisColorIntent can you give me the hex value of {color}
+AMAZON.HelpIntent help
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel
